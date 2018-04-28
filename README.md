@@ -36,7 +36,7 @@
 ### CHARITY
 * As a Charity I Should Be Able To
   * Signup for a Profile
-  * Include the charity's:
+  * Include the charity's:  
    Name  
    Bio  
    Contact Details  
@@ -45,7 +45,7 @@
    Payment method  
   * View Profile
   * Edit Profile
-  * Post a job:
+  * Post a job:  
    Name  
    Time  
    Skills  
@@ -67,7 +67,7 @@
 ### VOLUNTEER
 * As a volunteer I Should Be Able To
   * Sign up for a Profile
-  * Include the volunteer's:
+  * Include the volunteer's:  
    Name  
    Bio  
    Contact Details  
