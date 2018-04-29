@@ -15,19 +15,22 @@
   * Charity Profile  
   * Jobs Index  
   * Show Jobs  
-* ERD
+* ~~ERD~~
 * This Whole Checklist
 
-## PROBLEM Definition
+## PROBLEM DEFINITION
 
-  People wish to volunteer more often. However it's hard to find the right fit in regards to commitment and skills.
+  Charities always need more volunteers, particularly during variable event seasons. (Yearly fundraisers etc.) Not for profit's in Australia source 6.1 million volunteers each year. These volunteers work for a combined 713 million hours each year. This is an average of 100 hours per person per year. (Although it is worth noting the unreliability of self-reported data.) Source: https://www.volunteeringaustralia.org/wp-content/uploads/VA-Key-statistics-about-Australian-volunteering-16-April-20151.pdf
 
-  Charities struggle to find more volunteers than regulars and thus avoid variables.
+  To see how the general public felt about volunteering I created a short survey to ask people's experiences and their barriers to volunteering. Whilst a large amount of people (50%+) already volunteer, many feel as though they don't volunteer enough with a whopping 100% of people feeling they do not volunteer enough. A survey I created found the number one reason people were unlikely to volunteer is time constraints with 76% of respondents.
+  ![alt text][survey_pic]
+
+  [survey_pic]:https://i.gyazo.com/355124a8fe65e2471e9d29f43a46fc3e.png "Survey Results"
 
 
 ## PROBLEM SOLUTION
 
-  A platform to 'Crowd-Source' volunteers. Allow users to find volunteer opportunities based on availabilities. Allow charities to post up advertisements and manage volunteers.
+  A platform to 'Crowd-Source' volunteers. Allow users to find volunteer opportunities based on availabilities and skills. Allow charities to post up advertisements and manage volunteers. Focus on short, variable opportunities. 
 
 ## USER STORIES
 
@@ -84,7 +87,16 @@
 ## WORKFLOW
 ### USER INTERACTION DIAGRAM
 
-   Digitise current sketches.
+   Digitize current sketches.
+
+## WIREFRAMES
+
+   Need to create.
+
+## ERD
+![alt text][erd_pic]
+
+[erd_pic]:https://i.gyazo.com/38b128ffd45fd7db40a27546d42df272.png "ERD"
 
 
 # DEPLOYMENT BELOW
