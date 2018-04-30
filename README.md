@@ -19,8 +19,7 @@
   * ~~Show Jobs~~  
 * ~~ERD~~
 * ~~Design Decisions~~
-* Get Signed Off
-* Agile Workflow Timetable
+* ~~Agile Workflow Timetable~~
 * Get Signed Off
 
 ## PROBLEM DEFINITION
@@ -85,12 +84,13 @@
 
    ![alt text][lorax_pic]
 
-   [lorax_pic]:app/assets/images/lorax.png "Lorax"
+   [lorax_pic]:app/assets/images/lorax.PNG "Lorax"
    As such the primary colour chosen was blue. A lighter shade of blue is hopefully going to remind users of child-like story books and paintings. Blues and greens are also proven to be calming and work well with those that are short-sighted.
 
 ## AGILE WORKFLOW
+   ![alt text][agile_pic]
 
-   Need to create.
+   [agile_pic]:app/assets/images/agileFlow.png "Agile Timetable"
 
 
 
