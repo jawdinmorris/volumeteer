@@ -5,7 +5,7 @@
   * ~~Market Research~~
 * ~~Problem Solution~~  
   * ~~Ethical Considerations~~
-* USER STORIES
+* ~~USER STORIES~~
   * ~~Volunteer~~  
   * ~~Charity~~  
   * ~~Premium Charity~~  
@@ -31,7 +31,7 @@
 
   ![alt text][survey_pic]
 
-  [survey_pic]:https://i.gyazo.com/355124a8fe65e2471e9d29f43a46fc3e.png "Survey Results"
+  [survey_pic]:app/assets/images/survey.png "Survey Results"
 
 
 ## PROBLEM SOLUTION
@@ -44,56 +44,11 @@
   Secondly, workplace legislation. All opportunities must be a legitimate volunteer opportunity, allowing a volunteer a fulfilling experience that is not paid labour in disguise. This could be solved by the expectation that all charities or people offering opportunities will adhere to current legislation and a code of conduct. Moderation (physical or automated) could also enable a better service.
 
 ## USER STORIES
+  User stories were created using Trello. The original stories comprise of MVP features.
 
-  (To be entered into Trello, link to be included here and this deleted)
+![alt text][userStories]
 
-### CHARITY
-* As a Charity I Should Be Able To
-  * Signup for a Profile
-  * Include the charity's:  
-   Name  
-   Bio  
-   Contact Details  
-   Location  
-   Status (Premium or Free)  
-   Payment method  
-  * View Profile
-  * Edit Profile
-  * Post a job:  
-   Name  
-   Time  
-   Skills  
-   Event  
-   Skills Needed  
-  * Edit a job
-  * Delete a job
-  * See a list of Volunteers that have EOI
-  * Accept Volunteers
-  * Deny Volunteers
-  * Contact Volunteers
-  * Login, Logout and Delete
-
-### PREMIUM CHARITY
-* Everything a charity can do
-  * List even more jobs
-  * Ask for even more volunteers
-
-### VOLUNTEER
-* As a volunteer I Should Be Able To
-  * Sign up for a Profile
-  * Include the volunteer's:  
-   Name  
-   Bio  
-   Contact Details  
-   Location  
-   Skills  
-  * View Profile
-  * Edit Profile
-  * See list of jobs  
-   Filter by Skills
-  * Expression of Interest a job
-  * See full job description page
-  * Login, Logout and Delete
+[userStories]:app/assets/images/userStories.png "User Stories for project"
 
 ## WORKFLOW
 ### USER INTERACTION DIAGRAM
@@ -103,35 +58,17 @@
 ## WIREFRAMES
 
    Wireframes were created using Figma.com, all of which can be found here: https://www.figma.com/file/fdwSZtMhDU6XQafWcBPT97Qq/Volumeteer_Wireframes
-### HOMEPAGE
-   ![alt text][home_wireframe]
 
-   [home_wireframe]:https://i.gyazo.com/18f65b5eead40e8294e016ac741f8c7b.png "Wireframe for homepage"
+   ![alt text][wireframe]
 
-### USER PROFILE
-   ![alt text][user_wireframe]
+   [wireframe]:app/assets/images/wireframes.png "Wireframes for project"
 
-   [user_wireframe]:https://i.gyazo.com/704fe3dd7c5859cc9415064e1d841b94.png "Wireframe for user profile"
 
-### CHARITY PROFILE
-   ![alt text][charity_wireframe]
-
-   [charity_wireframe]:https://i.gyazo.com/5493f4c56e405df8a78282f9927c0656.png "Wireframe for charity profile"
-
-### JOB PAGE
-   ![alt text][job_wireframe]
-
-   [job_wireframe]:https://i.gyazo.com/c135d11caa0aebecf70244c0444fd5b0.png "Wireframe for individual job"  
-
-### JOB INDEX PAGE
-   ![alt text][jobs_wireframe]
-
-   [jobs_wireframe]:https://i.gyazo.com/a7720f8a835ca808b37781701ef18e61.png "Wireframe for jobs index"
 
 ## ERD
 ![alt text][erd_pic]
 
-[erd_pic]:https://i.gyazo.com/38b128ffd45fd7db40a27546d42df272.png "ERD"
+[erd_pic]:app/assets/images/erd.png "ERD"
 
 ## AGILE WORKFLOW
 
