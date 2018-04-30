@@ -36,7 +36,8 @@
 
 ## PROBLEM SOLUTION
 ### PROPOSED SOLUTION
-  A proposed solution is a digital, online platform that will connect charities to volunteers. The platform will allow charities to 'crowd source' volunteers by posting opportunities online. Volunteers will be able to search available opportunities filtering based on skills, time and location.
+  A proposed solution is a digital, online platform that will connect charities to volunteers. The platform will allow charities to 'crowd source' volunteers by posting opportunities online. Volunteers will be able to search available opportunities filtering based on skills, time and location.  
+  Volumeteer will aim to create a sense of community and self-fulfillment. This will be done by allowing charities and user to create a personal profile including a picture. Hours given by volunteers will be tracked and top volunteers could be highlighted each month.
 
 ### ETHICAL CONSIDERATIONS  
   First, safety. All volunteers should expect a safe, inclusive experience. Also, those traditionally susceptible to negligence and malice (i.e. elderly and sick) must be able to use the platform without fear. This could be solved via a peer-rating system or, provided full production, working with a background check.  
