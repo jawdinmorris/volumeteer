@@ -9,8 +9,8 @@
   * ~~Volunteer~~  
   * ~~Charity~~  
   * ~~Premium Charity~~  
-* WORKFLOW
-  * User Diagram
+* ~~WORKFLOW~~
+  * ~~User Diagram~~
 * ~~WIREFRAMES~~
   * ~~Home~~  
   * ~~User Profile~~  
@@ -18,8 +18,10 @@
   * ~~Jobs Index~~  
   * ~~Show Jobs~~  
 * ~~ERD~~
-* Design Decisions
+* ~~Design Decisions~~
+* Get Signed Off
 * Agile Workflow Timetable
+* Get Signed Off
 
 ## PROBLEM DEFINITION
 
@@ -52,8 +54,13 @@
 
 ## WORKFLOW
 ### USER INTERACTION DIAGRAM
+![alt text][volunteerFlow]
 
-   Digitize current sketches.
+[volunteerFlow]:app/assets/images/volunteerFlow.png "Volunteer flow for project"
+
+![alt text][charityFlow]
+
+[charityFlow]:app/assets/images/charityFlow.png "charityFlow for project"
 
 ## WIREFRAMES
 
@@ -70,9 +77,22 @@
 
 [erd_pic]:app/assets/images/erd.PNG "ERD"
 
+
+## DESIGN DECISIONS
+
+   Pinterest.com.au was originally used to help find inspiration for a general design.
+   A quote from the Lorax was the largest piece of inspiration design wise.
+
+   ![alt text][lorax_pic]
+
+   [lorax_pic]:app/assets/images/lorax.png "Lorax"
+   As such the primary colour chosen was blue. A lighter shade of blue is hopefully going to remind users of child-like story books and paintings. Blues and greens are also proven to be calming and work well with those that are short-sighted.
+
 ## AGILE WORKFLOW
 
    Need to create.
+
+
 
 
 # DEPLOYMENT BELOW
