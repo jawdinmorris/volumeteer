@@ -90,7 +90,7 @@
 ## AGILE WORKFLOW
    ![alt text][agile_pic]
 
-   [agile_pic]:app/assets/images/agileFlow.png "Agile Timetable"
+   [agile_pic]:app/assets/images/agileFlow.PNG "Agile Timetable"
 
 
 
