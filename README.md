@@ -68,7 +68,7 @@
 ## ERD
 ![alt text][erd_pic]
 
-[erd_pic]:app/assets/images/erd.png "ERD"
+[erd_pic]:app/assets/images/erd.PNG "ERD"
 
 ## AGILE WORKFLOW
 
