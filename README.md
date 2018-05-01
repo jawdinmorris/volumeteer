@@ -1,6 +1,6 @@
 # Design Document
-## Checklist
-* README
+## Design Checklist
+* ~~README~~
 * ~~Problem Definition~~  
   * ~~Market Research~~
 * ~~Problem Solution~~  
@@ -20,7 +20,7 @@
 * ~~ERD~~
 * ~~Design Decisions~~
 * ~~Agile Workflow Timetable~~
-* Get Signed Off
+* ~~Get Signed Off~~
 
 ## PROBLEM DEFINITION
 
@@ -45,12 +45,15 @@
   Secondly, workplace legislation. All opportunities must be a legitimate volunteer opportunity, allowing a volunteer a fulfilling experience that is not paid labour in disguise. This could be solved by the expectation that all charities or people offering opportunities will adhere to current legislation and a code of conduct. Moderation (physical or automated) could also enable a better service.
 
 ## USER STORIES
-  User stories were created using Trello. The original stories comprise of MVP features.
+  User stories were created using Trello. The original stories comprise of MVP features. Aswell as one column of non-mvp features.
 
 ![alt text][userStories]
 
 [userStories]:app/assets/images/userStories.png "User Stories for project"
 
+![alt text][userStoriesExtra]
+
+[userStoriesExtra]:app/assets/images/userStoriesExtra.PNG "Non-MVP User Stories for project"
 ## WORKFLOW
 ### USER INTERACTION DIAGRAM
 ![alt text][volunteerFlow]
@@ -64,11 +67,15 @@
 ## WIREFRAMES
 
    Wireframes were created using Figma.com, all of which can be found here: https://www.figma.com/file/fdwSZtMhDU6XQafWcBPT97Qq/Volumeteer_Wireframes
-
+   DESKTOP
    ![alt text][wireframe]
 
    [wireframe]:app/assets/images/wireframes.png "Wireframes for project"
 
+   MOBILE  
+   ![alt text][wireframes]
+
+   [wireframes]:app/assets/images/mobileUserWireframe.PNG "Mobile Wireframes for project"
 
 
 ## ERD
