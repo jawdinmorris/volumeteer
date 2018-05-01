@@ -16,7 +16,8 @@
       <li> <%= link_to "Charity Sign-up", new_charity_registration_path %> </li>
       <li> <%= link_to "Charity Log-in", new_charity_session_path %> </li>
       <% else %>
-      <li> <%= link_to "profile", charity_path(current_charity.id) %> </li>
+      <li> <%= link_to "Profile", charity_path(current_charity.id) %> </li>
+      <%= link_to('Logout', destroy_charity_session_path, method: :delete) %>     
       <% end %>
     </ul>
     <%= yield %>
