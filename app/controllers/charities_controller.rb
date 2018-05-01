@@ -5,12 +5,14 @@ class CharitiesController < ApplicationController
   # GET /charities.json
   def index
     @charities = Charity.all
+
   end
 
   # GET /charities/1
   # GET /charities/1.json
   def show
-    @charity = Charity.find(params[:id])
+    @charity = Charity.find(current_charity.id)
+    @jobs = Job.where(:charity_id => @charity.id).find_each
   end
 
   # GET /charities/new

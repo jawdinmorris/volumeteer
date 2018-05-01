@@ -1,4 +1,15 @@
 <p id="notice"><%= notice %></p>
 <h1> <%= @charity.name %> </h1>
+
+<% @jobs.each do |job| %>
+  <tr>
+    <td><%= job.name %> </td>
+    <td><%= link_to 'Show', job %></td>
+    <td><%= link_to 'Edit', edit_job_path(job) %></td>
+    <td><%= link_to 'Destroy', job, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+<p>
+<%= link_to 'Add a new job', new_job_path %>
 <%= link_to 'Edit', edit_charity_registration_path %> |
 <%= link_to 'Back', charities_path %>
