@@ -9,6 +9,16 @@
   </head>
 
   <body>
+    <p class="notice"><%= notice %></p>
+    <p class="alert"><%= alert %></p>
+    <ul>
+      <% if current_charity == nil then %>
+      <li> <%= link_to "Charity Sign-up", new_charity_registration_path %> </li>
+      <li> <%= link_to "Charity Log-in", new_charity_session_path %> </li>
+      <% else %>
+      <li> <%= link_to "profile", charity_path(current_charity.id) %> </li>
+      <% end %>
+    </ul>
     <%= yield %>
   </body>
 </html>
