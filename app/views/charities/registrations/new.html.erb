@@ -21,6 +21,27 @@
     <%= f.password_field :password_confirmation, autocomplete: "off" %>
   </div>
 
+  <div class="field">
+    <%= f.label :name %>
+    <%= f.text_field :name, :required => true %>
+  </div>
+
+  <div class="field">
+    <%= f.label :bio %>
+    <%= f.text_area :bio, :rows => 3, :required => true %>
+  </div>
+
+  <div class="field">
+    <%= f.label :location %>
+    <%= f.text_field :location, :required => true %>
+  </div>
+
+  <div class="field">
+    <%= f.label :phone %>
+    <%= f.text_field :phone, :required => true %>
+  </div>
+
+
   <div class="actions">
     <%= f.submit "Sign up" %>
   </div>

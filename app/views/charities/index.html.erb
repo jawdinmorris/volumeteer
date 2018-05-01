@@ -14,7 +14,7 @@
       <tr>
         <td> <%= charity.email %> </td>
         <td><%= link_to 'Show', charity %></td>
-        <td><%= link_to 'Edit', edit_charity_path(charity) %></td>
+        <td><%= link_to 'Edit', edit_charity_registration_path(charity) %></td>
         <td><%= link_to 'Destroy', charity, method: :delete, data: { confirm: 'Are you sure?' } %></td>
       </tr>
     <% end %>
